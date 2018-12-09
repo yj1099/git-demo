@@ -1,0 +1,2 @@
+git remote add abc https://github.com/yj1099/git-demo.git
+git push -u abc master
